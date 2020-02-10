@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InClass04</string>
+    <string name="tv_complexityText">Select Complexity :</string>
+    <string name="tv_min1">Minimum :</string>
+    <string name="tv_max1">Maximum :</string>
+    <string name="tv_avg1">Average :</string>
+    <string name="btn_1">Generate Number Async Task</string>
+</resources>
